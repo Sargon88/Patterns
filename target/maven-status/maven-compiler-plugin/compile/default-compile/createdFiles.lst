@@ -1,0 +1,11 @@
+com/esardini/patterns/bean/PointBean.class
+com/esardini/patterns/bean/response/SpaceResponse.class
+com/esardini/patterns/bean/LineBean.class
+com/esardini/patterns/controller/PatternMainController.class
+com/esardini/patterns/bean/response/LinesResponse.class
+com/esardini/patterns/bean/response/GenericResponse.class
+com/esardini/patterns/service/MainService.class
+com/esardini/patterns/Controller.class
+com/esardini/patterns/service/MainServiceImpl.class
+com/esardini/patterns/PatternsApplication.class
+com/esardini/patterns/service/MainServiceImpl_bkp.class
